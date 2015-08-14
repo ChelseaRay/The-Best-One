@@ -1,5 +1,5 @@
 # The-Best-One
 ##Things that are better than other things
-### * Dinosaurs
+* Dinosaurs
 * Charlie Shean
 * 
